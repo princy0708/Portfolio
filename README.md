@@ -7,7 +7,7 @@ Welcome to my **personal cybersecurity portfolio**! This website showcases my sk
 ## 🌐 Live Portfolio
 
 You can explore my portfolio online here:  
-[https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)
+[https://princy0708.github.io/portfolio/](https://princy0708.github.io/portfolio/)
 
 > **Tip:** Replace `yourusername` with your actual GitHub username.
 
@@ -55,6 +55,6 @@ portfolio/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/princy0708/portfolio.git
 
 
